@@ -1,0 +1,29 @@
+.container-page {
+    margin-top: 100px; /* Margen superior para espacio */
+    padding: 20px; /* Espacio interno */
+    max-width: 800px; /* Ancho máximo para una mejor legibilidad */
+    margin-left: auto; /* Centrar el contenedor horizontalmente */
+    margin-right: auto; /* Centrar el contenedor horizontalmente */
+    font-family: Arial, sans-serif; /* Fuente para el texto */
+}
+
+h1, h2, h3 {
+    color: #333; /* Color oscuro para títulos */
+    margin-top: 20px; /* Margen superior para separación */
+}
+
+p {
+    line-height: 1.6; /* Espaciado entre líneas */
+    margin-bottom: 15px; /* Margen inferior para separación entre párrafos */
+    color: #555; /* Color de texto más claro */
+}
+
+h2 {
+    border-bottom: 2px solid #007bff; /* Línea debajo de los subtítulos */
+    padding-bottom: 5px; /* Espaciado inferior del subtítulo */
+}
+
+h3 {
+    margin-top: 15px; /* Espacio adicional para subtítulos */
+    color: #007bff; /* Color azul para subtítulos */
+}
